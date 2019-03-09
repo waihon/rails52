@@ -26,3 +26,9 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# macOS specific
+.DS_Store
+
+# VIM specific
+*.swp
